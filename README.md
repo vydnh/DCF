@@ -1,9 +1,14 @@
 # Python for Finance 
 This repository contains Python code for financial data analysis and modelling. 
 # About This Project
-Develop a custom stock screener, filtering stocks on key financial metrics such as revenue, using Yahoo Finance (yfinance library) for real-time and 
-historical data.  
+The goal is to build a custom stock screener that filters stocks based on key financial metrics, and performs a simple stock valuation using the Discounted Cash Flow (DCF) method.
 
-Fetch stocks’ data (prices, financial statements, statistics) and visualize with charts, and export to Excel for easy presentation. 
+Key features include:
 
-Built valuation models 
+    Fetching stock data (prices, financial statements, statistics)
+    Visualizing data with charts
+    Building valuation models
+    Exporting data to Excel for easy presentation
+    
+
+This project is a hands-on way for me to experiment with Python in financial analysis.
