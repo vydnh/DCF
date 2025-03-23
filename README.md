@@ -1,4 +1,4 @@
-# Python for Finance 
+
 
 # About This Project
 The goal is to build a custom stock screener that filters stocks based on key financial metrics, and performs a simple stock valuation using the Discounted Cash Flow (DCF) method.
